@@ -1,5 +1,5 @@
 const API =
-  'https://youtube-v31.p.rapidapi.com/search?channelId=UC_Av98lDjf5KvFib5elhpYg&part=snippet%2Cid&order=date&maxResults=50';
+  'https://youtube-v31.p.rapidapi.com/search?channelId=UCo7JlPwz13UFHp7uKWShjiQ&part=snippet%2Cid&order=date&maxResults=50';
 
 const content = null || document.getElementById('content');
 
